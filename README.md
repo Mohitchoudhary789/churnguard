@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that predicts which telecom customers are likely to leave, explains why, and suggests retention actions. Built with Python, scikit-learn and Streamlit.
 
-**🔗 Live app:** <https://churnguard-dfouhbw8hm2djyq3gdmvdk.streamlit.app>
+**🔗 Live app:** <>
 **👤 Author:** <Mohit Choudhary>
 
 ## Problem
